@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Адаптивный алгоритм сжатия Хаффмана</string>
+    <string name="gt_gt"><![CDATA[>>]]></string>
+    <string name="lt_lt"><![CDATA[<<]]></string>
+    <string name="InputField">Введите здесь строку для кодирования</string>
+    <string name="LabelOut">Строка в нормальном виде:</string>
+    <string name="LabelIn">Строка в закодированном виде:</string>
+    <string name="FieldOutput">Здесь будет находиться 8-битное представление строки в двоичном виде</string>
+</resources>
